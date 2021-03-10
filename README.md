@@ -1,6 +1,6 @@
 # Shop Example Using NodeJs. 
 
-<img src="https://drive.google.com/drive/my-drive" alt="Logo">
+![Getting Started](/AlleSysLogo.png)
 
 ## Commands 
 1. Install Libraries using: 
